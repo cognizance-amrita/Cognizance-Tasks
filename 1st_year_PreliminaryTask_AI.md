@@ -73,6 +73,7 @@ _Objective:_
 - Question 1.5 : Calculate the Ratio of a Student's Age to Their Average Grade for Each Student
 
     Explanation: Perform element-wise division of the age column by the average grade column to get the ratio for each student.
+  
 _References:_
 - [<span style="color: #55AAFF;">Numpy Documentation</span>](https://numpy.org/doc/stable/reference/arrays.ndarray.html)
 - [<span style="color: #55AAFF;">GeeksforGeeks</span>]( https://www.geeksforgeeks.org/numpy-tutorial/)
