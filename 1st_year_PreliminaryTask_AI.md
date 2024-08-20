@@ -55,24 +55,24 @@ for index, student in enumerate(data):
 
 _Objective:_
 - Question 1.1 : Find the Average Height of the Students
-- Goal: Calculate the average height of all students.
-- Explanation: You need to use the mean() function from NumPy to compute the average value of the height column in the dataset.
+    Goal: Calculate the average height of all students.
+    Explanation: You need to use the mean() function from NumPy to compute the average value of the height column in the dataset.
 
 - Question 1.2 : Find the Age of the Oldest Student
-- Goal: Identify the age of the student who is the oldest.
-- Explanation: Use the max() function from NumPy to find the maximum value in the age column and determine the age of the oldest student.
+    Goal: Identify the age of the student who is the oldest.
+    Explanation: Use the max() function from NumPy to find the maximum value in the age column and determine the age of the oldest student.
 
 - Question 1.3 : Find the Index of the Student Who Took the Most Courses
-- Goal: Find out which student has taken the most courses and get their index.
-- Explanation: Use the argmax() function from NumPy to locate the index of the maximum value in the number of courses column.
+    Goal: Find out which student has taken the most courses and get their index.
+    Explanation: Use the argmax() function from NumPy to locate the index of the maximum value in the number of courses column.
 
 - Question 1.4 : Find the Number of Students with an Average Grade Above 85
-- Goal: Count how many students have an average grade greater than 85.
-- Explanation: Use a NumPy condition to filter the dataset for students with an average grade above 85, and then use the sum() function to count them.
+   Goal: Count how many students have an average grade greater than 85.
+    Explanation: Use a NumPy condition to filter the dataset for students with an average grade above 85, and then use the sum() function to count them.
 
 - Question 1.5 : Calculate the Ratio of a Student's Age to Their Average Grade for Each Student
-- Goal: Compute the ratio of each student's age to their average grade.
-- Explanation: Perform element-wise division of the age column by the average grade column to get the ratio for each student.
+    Goal: Compute the ratio of each student's age to their average grade.
+    Explanation: Perform element-wise division of the age column by the average grade column to get the ratio for each student.
 _References:_
 - [<span style="color: #55AAFF;">Numpy Documentation</span>](https://numpy.org/doc/stable/reference/arrays.ndarray.html)
 - [<span style="color: #55AAFF;">GeeksforGeeks</span>]( https://www.geeksforgeeks.org/numpy-tutorial/)
@@ -117,24 +117,24 @@ for index, student in enumerate(data):
 ```
 _Objective:_
 - Question 2.1 : Create a Pandas DataFrame
-- Goal: Create a Pandas DataFrame from the given NumPy array with the column names being ‘Height’, ‘Weight’, ‘Age’, ‘Avg_Grade’ and ‘Courses’ in that order.
-- Explanation: You need to understand how to convert a NumPy array into a DataFrame and assign column names.
+    Goal: Create a Pandas DataFrame from the given NumPy array with the column names being ‘Height’, ‘Weight’, ‘Age’, ‘Avg_Grade’ and ‘Courses’ in that order.
+    Explanation: You need to understand how to convert a NumPy array into a DataFrame and assign column names.
 
 - Question 2.2 : Describe the DataFrame
-- Goal: Use the describe() function to get a summary of statistics for the DataFrame.
-- Explanation: The describe() function provides various summary statistics (mean, standard deviation, min, max, and percentiles) for numeric columns in the DataFrame.
+    Goal: Use the describe() function to get a summary of statistics for the DataFrame.
+    Explanation: The describe() function provides various summary statistics (mean, standard deviation, min, max, and percentiles) for numeric columns in the DataFrame.
 
 - Question 2.3 : Count the Number of Students in Each Age Group
-- Goal: Count how many students belong to each age group.
-- Explanation: Use the value_counts() function to count occurrences of unique values in a column.
+    Goal: Count how many students belong to each age group.
+    Explanation: Use the value_counts() function to count occurrences of unique values in a column.
 
 - Question 2.4 : Filter the DataFrame
-- Goal: Filter the DataFrame to show only students who are older than 20 years.
-- Explanation: Filtering allows you to extract specific rows from the DataFrame based on certain conditions.
+  Goal: Filter the DataFrame to show only students who are older than 20 years.
+  Explanation: Filtering allows you to extract specific rows from the DataFrame based on certain conditions.
 
 - Question 2.5: Calculate the Average Grade for Each Age Group
-- Goal: Group the DataFrame by age and calculate the average grade for students in each age group.
-- Explanation: The groupby() function in Pandas is used to group data based on one or more columns. After grouping, you can apply aggregation functions like mean() to these groups. In this task, you will group students by their age and then calculate the average grade for each age group.
+    Goal: Group the DataFrame by age and calculate the average grade for students in each age group.
+  Explanation: The groupby() function in Pandas is used to group data based on one or more columns. After grouping, you can apply aggregation functions like mean() to these groups. In this task, you will group students by their age and then calculate the average grade for each age group.
 
 _References:_
 - [<span style="color: #55AAFF;">Pandas Documentation</span>](https://pandas.pydata.org/docs/reference/frame.html)
