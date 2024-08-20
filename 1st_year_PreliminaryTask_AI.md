@@ -89,7 +89,7 @@ _References:_
 *Pandas is a powerful open-source data analysis and manipulation library for Python. It provides data structures like Data Frames and Series that are built on top of NumPy arrays and are designed to handle a wide range of data types and operations efficiently. Pandas is extensively used in data science and machine learning for tasks such as data cleaning, transformation, and analysis.*
 
 **<span style="color: #ADD8E6; font-size: 1rem;">DataSet</span>**
-**We will use a dataset with 15 students, each having 5 attributes. Let's first convert the list into a Pandas DataFrame.**
+*We will use a dataset with 15 students, each having 5 attributes. Let's first convert the list into a Pandas DataFrame.*
 ```lua
 data = [
     [170, 65, 19, 85, 5],
