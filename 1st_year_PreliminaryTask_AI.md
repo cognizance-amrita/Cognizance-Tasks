@@ -75,9 +75,9 @@ _Objective:_
     Explanation: Perform element-wise division of the age column by the average grade column to get the ratio for each student.
   
 _References:_
+- [<span style="color: #55AAFF;">W3Schools</span>](https://www.w3schools.com/python/numpy/default.asp)
 - [<span style="color: #55AAFF;">Numpy Documentation</span>](https://numpy.org/doc/stable/reference/arrays.ndarray.html)
 - [<span style="color: #55AAFF;">GeeksforGeeks</span>]( https://www.geeksforgeeks.org/numpy-tutorial/)
-- [<span style="color: #55AAFF;">W3Schools</span>](https://www.w3schools.com/python/numpy/default.asp)
 - [<span style="color: #55AAFF;">NumPy cheat sheet</span>](https://images.datacamp.com/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf)
 
 <hr>
@@ -108,7 +108,7 @@ data = [
     [158, 52, 18, 75, 3],
     [164, 63, 19, 81, 4]
 ]
-// column names being ‘Height’, ‘Weight’, ‘Age’, ‘Avg_Grade’ and ‘Courses’ in that order.
+# column names being ‘Height’, ‘Weight’, ‘Age’, ‘Avg_Grade’ and ‘Courses’ in that order.
 ```
 _Objective:_
 - Question 2.1 : Create a Pandas DataFrame
@@ -132,7 +132,7 @@ _Objective:_
   Explanation: The groupby() function in Pandas is used to group data based on one or more columns. After grouping, you can apply aggregation functions like mean() to these groups. In this task, you will group students by their age and then calculate the average grade for each age group.
 
 _References:_
+- [<span style="color: #55AAFF;">W3Schools</span>](https://www.w3schools.com/python/pandas/default.asp)
 - [<span style="color: #55AAFF;">Pandas Documentation</span>](https://pandas.pydata.org/docs/reference/frame.html)
 - [<span style="color: #55AAFF;">GeeksforGeeks</span>](https://www.geeksforgeeks.org/pandas-tutorial/)
-- [<span style="color: #55AAFF;">W3Schools</span>](https://www.w3schools.com/python/pandas/default.asp)
 - [<span style="color: #55AAFF;">Pandas cheat sheet </span>](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
