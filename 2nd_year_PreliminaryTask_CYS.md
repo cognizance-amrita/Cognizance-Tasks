@@ -1,134 +1,61 @@
-*<span style="color: #90EE90; font-size: 2.5rem;">CYS</span>*
-*<span style="color: #ADD8E6; font-size: 1.5rem;">Authors - P. Sreeram Rohith and Subramanian</span>*
+**<span style="color: #90EE90; font-size: 2.5rem;">CYS</span>**
+**<span style="color: #ADD8E6; font-size: 1.5rem;">Authors - P. Sreeram Rohith and Subramanian</span>**
 
-*<span style="color: #ADD8E6; font-size: 1rem;">Story Driven - Decrypting the Cipher Code</span>*
+**<span style="color: #ADD8E6; font-size: 1rem;">Story Driven - Decrypting the Cipher Code</span>**
 
-*In the bustling city of Technopolis, where the world's most brilliant minds gather, the prestigious Cognizance Club is renowned for its cutting-edge innovations and breakthrough technologies. Recently, the club had developed a revolutionary machine learning algorithm that could predict cyber threats with unprecedented accuracy. However, just days before the algorithm's official presentation, it was stolen from the club's secure servers.
+In the bustling city of Technopolis, where the world's most brilliant minds gather, the prestigious Cognizance Club is renowned for its cutting-edge innovations and breakthrough technologies. Recently, the club had developed a revolutionary machine learning algorithm that could predict cyber threats with unprecedented accuracy. However, just days before the algorithm's official presentation, it was stolen from the club's secure servers.
 
-The club's administration is in a state of panic. The algorithm, if fallen into the wrong hands, could be used for malicious purposes. The city's cybercrime unit is already on the case, but they need the help of the brightest minds to solve this mystery swiftly. The thief left a mp3 file, stating that if cracked, it would lead to the recovery of the stolen algorithm.*
+The club's administration is in a state of panic. The algorithm, if fallen into the wrong hands, could be used for malicious purposes. The city's cybercrime unit is already on the case, but they need the help of the brightest minds to solve this mystery swiftly. The thief left a mp3 file, stating that if cracked, it would lead to the recovery of the stolen algorithm.
+
+**<span style="color: #FF6363; font-size: 1rem;">Objective</span>**
+
+*You are tasked with recovering a file that was locked with an unknown password. The thief left behind a mp3(Morse code) file that used to find the secret key. Use your skills to solve the problem and recover the file.*
 
 <hr>
 
-*<span style="color: #FF6363; font-size: 1rem;">Question 1</span>*
+**<span style="color: #ADD8E6; font-size: 1rem;">Submission Guidelines</span>**
 
-*<span style="color: #ADD8E6; font-size: 1rem;">Numpy</span>*
+*1. The report should include the following.*
 
-*NumPy is a popular Python library used for working with numbers and arrays. Think of it as a tool that helps you do math and handle large sets of numbers easily. It makes it simple to perform calculations on lists of numbers and matrices. NumPy is great for anyone who wants to do data analysis or scientific computing because it speeds up these tasks with its fast and powerful features.*
+*2. The algorithm used to solve the Task given.(Explanation)*
 
-*<span style="color: #ADD8E6; font-size: 1rem;">DataSet</span>*
-*We use a dataset of details about 15 students each having attributes – Height, Weight, Age, Average Grade and Courses. We use the python code given below to create a NumPy array of our dataset.*
+*3. The Password to Unlock the PDF(Type the password in the report as "password is:---------")*
 
-*Python code to create NumPy array for the task:*
+*4. The **Secret code** present in the Cyber Threat Advanced Machine Learning Algorithm PDF.*
+
+**<span style="color: #FF6363; font-size: 1rem;"> Note:Make a Document and Submit in the link Provided </span>**
+
+<hr>
+
+**<span style="color: #FF6363; font-size: 1rem;"> Hints</span>**
+
+**<span style="color: #FF6363; font-size: 1rem;">Cipher Code</span>**
 
 ```lua
 
-import numpy as np
-# Creating a dataset with 15 students and 5 attributes
-data = np.array([
-    [170, 65, 19, 85, 5],
-    [180, 75, 20, 90, 6],
-    [160, 55, 18, 80, 4],
-    [175, 70, 21, 88, 7],
-    [155, 50, 19, 82, 5],
-    [165, 62, 22, 89, 6],
-    [178, 80, 23, 91, 7],
-    [162, 58, 20, 78, 3],
-    [172, 68, 19, 86, 5],
-    [169, 66, 20, 84, 4],
-    [171, 64, 22, 87, 6],
-    [177, 72, 21, 90, 9],
-    [174, 76, 24, 88, 8],
-    [158, 52, 18, 75, 3],
-    [164, 63, 19, 81, 4]
-])
+fvHwSekvEf6bktVlrsW0FA==
 
-# Printing the dataset with student labels
-print("Student\tHeight\tWeight\tAge\tAvg Grade\tCourses")
-for index, student in enumerate(data):
-    print(f"Student {index + 1}\t{student[0]}\t{student[1]}\t{student[2]}\t{student[3]}\t\t{student[4]}")
-    
 ```
 
-Objective:
-- Question 1.1 : Find the Average Height of the Students
-  
-    Explanation: You need to use the mean() function from NumPy to compute the average value of the height column in the dataset.
+**Hints**
 
-- Question 1.2 : Find the Age of the Oldest Student
+- *There Will be a Secret Key.*
 
-    Explanation: Use the max() function from NumPy to find the maximum value in the age column and determine the age of the oldest student.
+- *You need to findout the key based on given mp3 file*
 
-- Question 1.3 : Find the Index of the Student Who Took the Most Courses
-
-    Explanation: Use the argmax() function from NumPy to locate the index of the maximum value in the number of courses column.
-
-- Question 1.4 : Find the Number of Students with an Average Grade Above 85
-
-    Explanation: Use a NumPy condition to filter the dataset for students with an average grade above 85, and then use the sum() function to count them.
-
-- Question 1.5 : Calculate the Ratio of a Student's Age to Their Average Grade for Each Student
-
-    Explanation: Perform element-wise division of the age column by the average grade column to get the ratio for each student.
-  
-References:
-- [<span style="color: #55AAFF;">Numpy Documentation</span>](https://numpy.org/doc/stable/reference/arrays.ndarray.html)
-- [<span style="color: #55AAFF;">GeeksforGeeks</span>]( https://www.geeksforgeeks.org/numpy-tutorial/)
-- [<span style="color: #55AAFF;">W3Schools</span>](https://www.w3schools.com/python/numpy/default.asp)
-- [<span style="color: #55AAFF;">NumPy cheat sheet</span>](https://images.datacamp.com/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf)
+- *Use the Ciper text to find out the Password for file*
 
 <hr>
 
-*<span style="color: #FF6363; font-size: 1rem;">Question 2</span>*
+**<span style="color: #FF6363; font-size: 1rem;">References</span>**
 
-*<span style="color: #ADD8E6; font-size: 1rem;">Pandas</span>*
+- [<span style="color: #55AAFF;">Reference - 1</span>](https://www.youtube.com/live/C7vmouDOJYM?si=UjbDbuzJUXjvP2aO)
+- [<span style="color: #55AAFF;">Reference - 2</span>](https://www.geeksforgeeks.org/basics-of-cryptographic-algorithms/)
 
-*Pandas is a powerful open-source data analysis and manipulation library for Python. It provides data structures like Data Frames and Series that are built on top of NumPy arrays and are designed to handle a wide range of data types and operations efficiently. Pandas is extensively used in data science and machine learning for tasks such as data cleaning, transformation, and analysis.*
+<hr>
 
-*<span style="color: #ADD8E6; font-size: 1rem;">DataSet</span>*
-*We will use a dataset with 15 students, each having 5 attributes. Let's first convert the list into a Pandas DataFrame.*
-lua
-data = [
-    [170, 65, 19, 85, 5],
-    [180, 75, 20, 90, 6],
-    [160, 55, 18, 80, 4],
-    [175, 70, 21, 88, 7],
-    [155, 50, 19, 82, 5],
-    [165, 62, 22, 89, 6],
-    [178, 80, 23, 91, 7],
-    [162, 58, 20, 78, 3],
-    [172, 68, 19, 86, 5],
-    [169, 66, 20, 84, 4],
-    [171, 64, 22, 87, 6],
-    [177, 72, 21, 90, 9],
-    [174, 76, 24, 88, 8],
-    [158, 52, 18, 75, 3],
-    [164, 63, 19, 81, 4]
-]
-// column names being ‘Height’, ‘Weight’, ‘Age’, ‘Avg_Grade’ and ‘Courses’ in that order.
+**<span style="color: #FF6363; font-size: 1rem;">The Cyber Threat Advanced Machine Learning Algorithm PDF File</span>**
 
-Objective:
-- Question 2.1 : Create a Pandas DataFrame
+[<span style="color: #55AAFF;">File Link</span>](https://drive.google.com/file/d/1Oz1HQ_6l_S2u6dS9vNsq_mPmgLIzPsyt/view?usp=drive_link)
 
-    Explanation: You need to understand how to convert a NumPy array into a DataFrame and assign column names.
-
-- Question 2.2 : Describe the DataFrame
-
-    Explanation: The describe() function provides various summary statistics (mean, standard deviation, min, max, and percentiles) for numeric columns in the DataFrame.
-
-- Question 2.3 : Count the Number of Students in Each Age Group
-
-    Explanation: Use the value_counts() function to count occurrences of unique values in a column.
-
-- Question 2.4 : Filter the DataFrame
-
-  Explanation: Filtering allows you to extract specific rows from the DataFrame based on certain conditions.
-
-- Question 2.5: Calculate the Average Grade for Each Age Group
-
-  Explanation: The groupby() function in Pandas is used to group data based on one or more columns. After grouping, you can apply aggregation functions like mean() to these groups. In this task, you will group students by their age and then calculate the average grade for each age group.
-
-References:
-- [<span style="color: #55AAFF;">Pandas Documentation</span>](https://pandas.pydata.org/docs/reference/frame.html)
-- [<span style="color: #55AAFF;">GeeksforGeeks</span>](https://www.geeksforgeeks.org/pandas-tutorial/)
-- [<span style="color: #55AAFF;">W3Schools</span>](https://www.w3schools.com/python/pandas/default.asp)
-- [<span style="color: #55AAFF;">Pandas cheat sheet </span>](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+<hr>
