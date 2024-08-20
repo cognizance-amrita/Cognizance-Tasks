@@ -31,11 +31,11 @@ _Preparatory Step:_
 - Use the *MySQL Command Line Client* to do the tasks and not *MySQL WorkBench*
 
 _Objective:_
-- <span style="color: #FF6363;">Question 2.1</span>You are tasked with creating a small database system to manage student memberships in the Cognizance club at Amrita University. The system should track which students are part of this club and what technical language they are familiar with.
-- <span style="color: #FF6363;">Question 2.2</span>Create a database called "Clubs" in MySQL and then create a table called "Cognizance" with columns "Name" (student's name), and "Known_language" (Python, C, C++, Java, etc.).
-- <span style="color: #FF6363;">Question 2.3</span>Populate the _Cognizance_ table with at least 5 students ensuring a mix of different _Known_language_.
-- <span style="color: #FF6363;">Question 2.4</span>Now display the names of all students who have "Python" as their _known_language_.
-- <span style="color: #FF6363;">Question 2.5</span>Update the _known_language_ of the first student that you have inserted into any other language and display the updation by showing the whole table again.
+- <span style="color: #FF6363;">Question 2.1 : </span>You are tasked with creating a small database system to manage student memberships in the Cognizance club at Amrita University. The system should track which students are part of this club and what technical language they are familiar with.
+- <span style="color: #FF6363;">Question 2.2 : </span>Create a database called "Clubs" in MySQL and then create a table called "Cognizance" with columns "Name" (student's name), and "Known_language" (Python, C, C++, Java, etc.).
+- <span style="color: #FF6363;">Question 2.3 : </span>Populate the _Cognizance_ table with at least 5 students ensuring a mix of different _Known_language_.
+- <span style="color: #FF6363;">Question 2.4 : </span>Now display the names of all students who have "Python" as their _known_language_.
+- <span style="color: #FF6363;">Question 2.5 : </span>Update the _known_language_ of the first student that you have inserted into any other language and display the updation by showing the whole table again.
 
 _References:_
 - [<span style="color: #55AAFF;">MySQL Queries</span>](https://www.javatpoint.com/mysql-queries)
