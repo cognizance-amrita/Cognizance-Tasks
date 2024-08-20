@@ -24,7 +24,7 @@ _References:_
 
 **Python code to create NumPy array for the task:**
 
----lsu
+```lua
 
 import numpy as np
 # Creating a dataset with 15 students and 5 attributes
@@ -51,7 +51,7 @@ print("Student\tHeight\tWeight\tAge\tAvg Grade\tCourses")
 for index, student in enumerate(data):
     print(f"Student {index + 1}\t{student[0]}\t{student[1]}\t{student[2]}\t{student[3]}\t\t{student[4]}")
     
----
+```
 
 _Objective:_
 - Design an attractive landing page for a Website/App of your own.
