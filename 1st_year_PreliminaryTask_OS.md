@@ -26,7 +26,7 @@ _References:_
 
 **MySQL is a popular open-source relational database management system (RDBMS) that uses Structured Query Language (SQL) for managing and organizing data. Known for its speed, reliability, and ease of use, MySQL is widely used in web applications, data warehousing, and logging applications making it a top choice for developers and organizations to handle large volumes of data efficiently**
 
-_Pre Step:_
+_Preparatory Step:_
 - Download MySql from [<span style="color: #55AAFF;">MySql.org</span>](https://dev.mysql.com/downloads/mysql/)
 - Use the *MySQL Command Line Client* to do the tasks and not *MySQL WorkBench*
 
