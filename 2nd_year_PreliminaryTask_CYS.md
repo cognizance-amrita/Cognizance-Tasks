@@ -23,7 +23,7 @@ The club's administration is in a state of panic. The algorithm, if fallen into 
 
 *4. The **Secret code** present in the Cyber Threat Advanced Machine Learning Algorithm PDF.*
 
-**<span style="color: #FF6363; font-size: 1rem;"> Note:Make a Document and Submit in the link Provided </span>**
+**<span style="color: #FF6363; font-size: 1rem;"> Note: Make a Document and Upload it in the GitHub directory </span>**
 
 <hr>
 
