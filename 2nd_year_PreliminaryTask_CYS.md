@@ -1,5 +1,5 @@
-**<span style="color: #90EE90; font-size: 2.5rem;">CYS</span>**
-**<span style="color: #ADD8E6; font-size: 1.5rem;">Authors - P. Sreeram Rohith and Subramanian</span>**
+**<span style="color: #90EE90; font-size: 1.5rem;">CYS</span>**
+**<span style="color: #ADD8E6; font-size: 1rem;">Authors - P. Sreeram Rohith and Subramanian</span>**
 
 **<span style="color: #ADD8E6; font-size: 1rem;">Story Driven - Decrypting the Cipher Code</span>**
 
@@ -52,7 +52,6 @@ fvHwSekvEf6bktVlrsW0FA==
 - [<span style="color: #55AAFF;">Reference - 1</span>](https://www.youtube.com/live/C7vmouDOJYM?si=UjbDbuzJUXjvP2aO)
 - [<span style="color: #55AAFF;">Reference - 2</span>](https://www.geeksforgeeks.org/basics-of-cryptographic-algorithms/)
 
-<hr>
 
 **<span style="color: #FF6363; font-size: 1rem;">The Cyber Threat Advanced Machine Learning Algorithm PDF File</span>**
 
