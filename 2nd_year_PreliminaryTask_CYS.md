@@ -7,12 +7,12 @@ In the bustling city of Technopolis, where the world's most brilliant minds gath
 
 The club's administration is in a state of panic. The algorithm, if fallen into the wrong hands, could be used for malicious purposes. The city's cybercrime unit is already on the case, but they need the help of the brightest minds to solve this mystery swiftly. The thief left a mp3 file, stating that if cracked, it would lead to the recovery of the stolen algorithm.
 
-_<span>Objective</span>_
+_<span style="color: #ADD8E6">Objective:</span>_
 
 *You are tasked with recovering a file that was locked with an unknown password. The thief left behind a mp3(Morse code) file that used to find the secret key. Use your skills to solve the problem and recover the file.*
 
 
-_<span>Submission Guidelines:</span>_
+_<span style="color: #ADD8E6">Submission Guidelines:</span>_
 
 - The report should include the following.
 
@@ -24,7 +24,7 @@ _<span>Submission Guidelines:</span>_
 
 - Note: Make a Document and Upload it in the GitHub directory.
 
-_<span>Hints:</span>_
+_<span style="color: #ADD8E6:">Hints:</span>_
 
 - Cipher Code
 
@@ -40,7 +40,7 @@ fvHwSekvEf6bktVlrsW0FA==
 
 - Use the Cipher text to find out the Password for the file
 
-_<span>References:</span>_
+_<span style="color: #ADD8E6">References:</span>_
 
 - [<span style="color: #55AAFF;">Cryptography Video</span>](https://www.youtube.com/live/C7vmouDOJYM?si=UjbDbuzJUXjvP2aO)
 - [<span style="color: #55AAFF;">Cryptography Algorithms</span>](https://www.geeksforgeeks.org/basics-of-cryptographic-algorithms/)
