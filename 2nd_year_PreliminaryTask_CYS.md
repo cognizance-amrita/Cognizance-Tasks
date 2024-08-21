@@ -7,7 +7,7 @@ In the bustling city of Technopolis, where the world's most brilliant minds gath
 
 The club's administration is in a state of panic. The algorithm, if fallen into the wrong hands, could be used for malicious purposes. The city's cybercrime unit is already on the case, but they need the help of the brightest minds to solve this mystery swiftly. The thief left a mp3 file, stating that if cracked, it would lead to the recovery of the stolen algorithm.
 
-**<span style="color: #FF6363; font-size: 1rem;">Objective</span>**
+_<span>Objective</span>_
 
 *You are tasked with recovering a file that was locked with an unknown password. The thief left behind a mp3(Morse code) file that used to find the secret key. Use your skills to solve the problem and recover the file.*
 
@@ -25,19 +25,15 @@ The club's administration is in a state of panic. The algorithm, if fallen into 
 
 **<span style="color: #FF6363; font-size: 1rem;"> Note: Make a Document and Upload it in the GitHub directory </span>**
 
-<hr>
+_<span> Hints</span>_
 
-**<span style="color: #FF6363; font-size: 1rem;"> Hints</span>**
-
-**<span style="color: #FF6363; font-size: 1rem;">Cipher Code</span>**
+**<span style="color: #FF6363; font-size: 0.5rem;">Cipher Code</span>**
 
 ```lua
 
 fvHwSekvEf6bktVlrsW0FA==
 
 ```
-
-**Hints**
 
 - *There Will be a Secret Key.*
 
@@ -47,14 +43,10 @@ fvHwSekvEf6bktVlrsW0FA==
 
 <hr>
 
-**<span style="color: #FF6363; font-size: 1rem;">References</span>**
+_<span>References</span>_
 
-- [<span style="color: #55AAFF;">Reference - 1</span>](https://www.youtube.com/live/C7vmouDOJYM?si=UjbDbuzJUXjvP2aO)
-- [<span style="color: #55AAFF;">Reference - 2</span>](https://www.geeksforgeeks.org/basics-of-cryptographic-algorithms/)
-
-
-**<span style="color: #FF6363; font-size: 1rem;">The Cyber Threat Advanced Machine Learning Algorithm PDF File</span>**
-
-[<span style="color: #55AAFF;">File Link</span>](https://drive.google.com/file/d/1Oz1HQ_6l_S2u6dS9vNsq_mPmgLIzPsyt/view?usp=drive_link)
+- [<span style="color: #55AAFF;">Cryptography Video</span>](https://www.youtube.com/live/C7vmouDOJYM?si=UjbDbuzJUXjvP2aO)
+- [<span style="color: #55AAFF;">Cryptography Algorithms</span>](https://www.geeksforgeeks.org/basics-of-cryptographic-algorithms/)
+- [<span style="color: #55AAFF;">The Cyber Threat Advanced Machine Learning Algorithm PDF</span>](https://drive.google.com/file/d/1Oz1HQ_6l_S2u6dS9vNsq_mPmgLIzPsyt/view?usp=drive_link)
 
 <hr>
