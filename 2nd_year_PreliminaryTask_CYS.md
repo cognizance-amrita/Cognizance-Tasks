@@ -24,7 +24,7 @@ _<span style="color: #ADD8E6">Submission Guidelines:</span>_
 
 - Note: Make a Document and Upload it in the GitHub directory.
 
-_<span style="color: #ADD8E6:">Hints:</span>_
+_<span style="color: #ADD8E6">Hints:</span>_
 
 - Cipher Code
 
