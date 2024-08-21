@@ -34,6 +34,14 @@ fvHwSekvEf6bktVlrsW0FA==
 
 ```
 
+- Mp3 File(Morse Code)
+
+```lua
+
+... ...-- -.-. .-. ...-- - -.- ...-- -.-- .--.-. .---- ..--- ...-- ....- ..... -....
+
+```
+
 - There Will be a Secret Key.
 
 - You need to find out the key based on the given mp3 file*
