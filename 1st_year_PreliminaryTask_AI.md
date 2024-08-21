@@ -1,9 +1,10 @@
+
 **<span style="color: #90EE90; font-size: 1.5rem;">AI</span>**
 **<span style="color: #ADD8E6; font-size: 1rem;">Authors - R. Pranav and Jagaadhep U K</span>**
 
 **<span style="color: #ADD8E6; font-size: 1rem;">Google Colab</span>**
 
-Google Colab is a free online tool that lets you write and run Python code right in your web browser. It's like a notebook where you can type your code and see the results immediately. Colab is great for learning and working on data science projects because it supports popular Python libraries like Pandas and TensorFlow. You can also use it with others, making it easy to collaborate on projects. Plus, it provides access to powerful computers (GPUs and TPUs) for faster processing, which is really helpful for running complex tasks.
+**Google Colab is a free online tool that lets you write and run Python code right in your web browser. It's like a notebook where you can type your code and see the results immediately. Colab is great for learning and working on data science projects because it supports popular Python libraries like Pandas and TensorFlow. You can also use it with others, making it easy to collaborate on projects. Plus, it provides access to powerful computers (GPUs and TPUs) for faster processing, which is really helpful for running complex tasks.**
 
 **Note: Use Google Colab to complete the tasks provided. After completing the tasks, upload your Google Colab Notebook to your GitHub repository.**
 
@@ -16,7 +17,7 @@ Google Colab is a free online tool that lets you write and run Python code right
 
 **<span style="color: #ADD8E6; font-size: 1rem;">Numpy</span>**
 
-NumPy is a popular Python library used for working with numbers and arrays. Think of it as a tool that helps you do math and handle large sets of numbers easily. It makes it simple to perform calculations on lists of numbers and matrices. NumPy is great for anyone who wants to do data analysis or scientific computing because it speeds up these tasks with its fast and powerful features.
+**NumPy is a popular Python library used for working with numbers and arrays. Think of it as a tool that helps you do math and handle large sets of numbers easily. It makes it simple to perform calculations on lists of numbers and matrices. NumPy is great for anyone who wants to do data analysis or scientific computing because it speeds up these tasks with its fast and powerful features.**
 
 **<span style="color: #ADD8E6; font-size: 1rem;">DataSet</span>**
 
@@ -86,7 +87,7 @@ for index, student in enumerate(data):
 
 **<span style="color: #ADD8E6; font-size: 1rem;">Pandas</span>**
 
-Pandas is a powerful open-source data analysis and manipulation library for Python. It provides data structures like Data Frames and Series that are built on top of NumPy arrays and are designed to handle a wide range of data types and operations efficiently. Pandas is extensively used in data science and machine learning for tasks such as data cleaning, transformation, and analysis.
+**Pandas is a powerful open-source data analysis and manipulation library for Python. It provides data structures like Data Frames and Series that are built on top of NumPy arrays and are designed to handle a wide range of data types and operations efficiently. Pandas is extensively used in data science and machine learning for tasks such as data cleaning, transformation, and analysis.**
 
 **<span style="color: #ADD8E6; font-size: 1rem;">DataSet</span>**
 
