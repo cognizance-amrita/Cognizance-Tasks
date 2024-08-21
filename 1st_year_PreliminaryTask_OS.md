@@ -2,7 +2,7 @@
 **<span style="color: #90EE90; font-size: 1.5rem;">Open Source</span>**
 **<span style="color: #ADD8E6; font-size: 1rem;">Authors - Jahnavi and Nehal Khan</span>**
  
-**<span style="color: #FF6363; font-size: 1rem;">Question 1</span>**
+**<span style="color: #FF6363; font-size: 1rem;">Question 1</span>** 
 
 **<span style="color: #ADD8E6; font-size: 1rem;">Figma</span>**
 
