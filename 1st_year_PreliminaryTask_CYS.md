@@ -14,7 +14,7 @@ _<span style="color: #ADD8E6">Objective:</span>_
 
 _<span style="color: #ADD8E6">Submission Guidelines:</span>_
 
-- In the submission form, upload the final output images along with your documentation for each task.
+- In the submission form, you have to type flag(finding) for each task (make sure ur flag is in this format *******{______}).
 
 _<span style="color: #ADD8E6">Task Descriptions:</span>_
 
