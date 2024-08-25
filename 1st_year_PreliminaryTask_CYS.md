@@ -17,7 +17,8 @@ _<span style="color: #ADD8E6">Objective:</span>_
 _<span style="color: #ADD8E6">Submission Guidelines:</span>_
 
 - In the submission form, upload the final Output image.
-_<span style="color: #ADD8E6">Hints:</span>_
+
+<span style="color: #ADD8E6">Hints:</span>_
 
 - Look for patterns, anomalies, or hidden elements in the image.
 - Think beyond the obvious; not everything is as it seems.
