@@ -2,7 +2,7 @@
 
 **COMPETITIVE PROGRAMMING**
 
- CP MENTORS - ADITHIYAN PV and KAUSHIK KUMBHAT
+ CP AUTHORS - ADITHIYAN PV and KAUSHIK KUMBHAT
 
 1. **BASIC IUPUT AND OUTPUT:**
 
@@ -88,7 +88,7 @@ In programming, a **function** is a block of code designed to perform a specific
 
 CREATE AN ACCOUNT IN HACKERRANK PLATFORM AND JOIN IN THE LEADERBOARD CHALLENGE VIA THE LINK GIVEN BELOW:
 
-LINK: <https://www.hackerrank.com/cp-task-for-1st-year>
+LINK: <https://www.hackerrank.com/cp-task-for-1st-year> 
 
 **SCORING CRITERIA:**
 
