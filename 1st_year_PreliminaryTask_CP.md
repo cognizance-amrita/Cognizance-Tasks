@@ -1,7 +1,8 @@
 **COGNIZANCE 1<sup>st</sup> YEAR PRELIMINARY TASK**
 
 **COMPETITIVE PROGRAMMING**
-** CP MENTORS - ADITHIYAN PV and KAUSHIK KUMBHAT
+
+ CP MENTORS - ADITHIYAN PV and KAUSHIK KUMBHAT
 
 1. **BASIC IUPUT AND OUTPUT:**
 
@@ -9,7 +10,7 @@ In programming, **input** and **output** are fundamental concepts that allow a p
 
 **A simple example of python code involving both user input and output:**
 
-** Simple calculator program**
+Simple calculator program
 
 num1 = float(input("Enter the first number: "))
 
