@@ -30,7 +30,7 @@ _<span style="color: #ADD8E6">Hints:</span>_
 
 ```lua
 
-fvHwSekvEf6bktVlrsW0FA==
+hoZyGgMHU4dM+8zgZAPXhA==
 
 ```
 
