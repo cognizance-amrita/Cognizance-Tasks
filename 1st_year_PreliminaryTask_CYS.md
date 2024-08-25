@@ -16,12 +16,7 @@ _<span style="color: #ADD8E6">Objective:</span>_
 
 _<span style="color: #ADD8E6">Submission Guidelines:</span>_
 
-- The report should include the following:
-  - The method you used to uncover the hidden message.
-  - The decoded message.
-  - A brief explanation of how you interpreted the clues to reach the final solution.
-  - Upload your findings in a document which will be evaluvated.
-
+- In the submission form, upload the final Output image.
 _<span style="color: #ADD8E6">Hints:</span>_
 
 - Look for patterns, anomalies, or hidden elements in the image.
