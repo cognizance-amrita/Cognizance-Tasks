@@ -84,9 +84,9 @@ In programming, a **function** is a block of code designed to perform a specific
 - **Modularity:** Functions allow you to organize code into separate sections.
 - **Maintainability:** Easier to update code. Changes in a function are reflected wherever the function is used.
 
-**TASKS FOR WEEK 1:**
+**TASK:**
 
-CREATE AN ACCOUNT IN HACKERRANK PLATFORM AND JOIN IN THE LEADERBOARD CHALLENGE VIA THE LINK GIVEN BELOW:
+CREATE AN ACCOUNT IN HACKERRANK PLATFORM AND JOIN IN THE HACKERRANK CHALLENGE VIA THE LINK GIVEN BELOW:
 
 LINK: <https://www.hackerrank.com/cp-task-for-1st-year>
 
