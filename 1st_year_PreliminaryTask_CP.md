@@ -9,7 +9,7 @@ In programming, **input** and **output** are fundamental concepts that allow a p
 
 **A simple example of python code involving both user input and output:**
 
-# Simple calculator
+** Simple calculator program**
 
 num1 = float(input("Enter the first number: "))
 
