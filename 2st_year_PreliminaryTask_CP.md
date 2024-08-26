@@ -142,7 +142,10 @@ Enter number5: 49
 Average = 39 
 
 
+
+
 Find the Largest/Smallest of the Elements of an Array 
+
 
 •	We set largest to the value of the first element of the array. 
 
