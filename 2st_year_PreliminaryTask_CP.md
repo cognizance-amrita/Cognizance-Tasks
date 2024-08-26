@@ -14,13 +14,18 @@
 **Arrays are of two types:**
 
 •	Single or One dimensional arrays. 
+
 •	Multidimensional eg. two dimensional arrays. 
  
 Single Dimensional Arrays 
+
  
 •	A single dimensional array has only a single subscript. 
+
 •	A subscript is a number in brackets that follows an array name. 
+
 •	This number can identify the number of individual elements in the array. 
+
 •	Individual array elements are stored in sequential memory locations. 
 
  ![image](https://github.com/user-attachments/assets/70a2b23d-545f-45f7-b4d8-348a002aa0b5)
@@ -30,6 +35,7 @@ Single Dimensional Arrays
 3.	If the address of the  age[0] is 2120d and the size of int be 2 bytes,  
  
 then the address of next elements shall be 
+
              age[1] is 2122d              
              age[2] is 2124d             
              age[3] is 2126d             
