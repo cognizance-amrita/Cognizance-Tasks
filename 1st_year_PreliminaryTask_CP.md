@@ -46,7 +46,8 @@ Conditional statements are a fundamental concept in programming that allows you 
 
 **A SIMPLE FLOWCHART DEMONSTRATING THE WORKING OF CONDITIONAL STATEMENT IS SHOWN AS BELOW:**
 
-![image](https://github.com/user-attachments/assets/a8e340f6-0d01-45ea-82ed-7f6c7fabe101)
+![image](https://github.com/user-attachments/assets/322f144f-fc4e-4f11-9371-dff3858c70e2)
+
 
 - 'if statement' is used to execute a block of code only if a certain condition is met. It allows us to conditionally execute code based on whether the specified condition is true.
 - 'else statement', on the other hand, is an optional companion to the if statement. It specifies what code to execute if the condition in the if statement is not met (i.e. if it is false).
