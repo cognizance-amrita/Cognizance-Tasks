@@ -67,14 +67,23 @@ double salary = balance[9];
 •	When the above code is compiled and executed, it produces the following result: 
 
 Element[0] = 100. 
+
 Element[1] = 101. 
+
 Element[2] = 102. 
+
 Element[3] = 103. 
+
 Element[4] = 104. 
+
 Element[5] = 105. 
+
 Element[6] = 106. 
+
 Element[7] = 107. 
+
 Element[8] = 108. 
+
 Element[9] = 109. 
  
 Example : Calculate Average 
@@ -117,12 +126,19 @@ return 0;
 Output 
 
 Enter n: 5 
+
 Enter number1: 45 
+
 Enter number2: 35 
+
 Enter number3: 38 
+
 Enter number4: 31 
+
 Enter number5: 49 
+
 Average = 39 
+
 
 Find the Largest/Smallest of the Elements of an Array 
 
