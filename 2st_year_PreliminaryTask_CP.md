@@ -85,6 +85,8 @@ Element[7] = 107.
 Element[8] = 108. 
 
 Element[9] = 109. 
+
+
  
 Example : Calculate Average 
 
@@ -99,20 +101,20 @@ printf("Enter number of elements: ");
 
 scanf("%d", &n); 
  
-for(i=0; i<n; ++i) 
+ for(i=0; i<n; ++i) 
  
-{
+ {
  
-printf("Enter number%d: ",i+1);
+  printf("Enter number%d: ",i+1);
  
-scanf("%d", &marks[i]); 
+  scanf("%d", &marks[i]); 
  
  
-// adding integers entered by the user to the sum variable
+  // adding integers entered by the user to the sum variable
  
-sum += marks[i]; 
+  sum += marks[i]; 
  
-} 
+ } 
  
 average = sum/n;    
   
