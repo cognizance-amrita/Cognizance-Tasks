@@ -12,6 +12,7 @@
  
  
 **Arrays are of two types:**
+
 •	Single or One dimensional arrays. 
 •	Multidimensional eg. two dimensional arrays. 
  
