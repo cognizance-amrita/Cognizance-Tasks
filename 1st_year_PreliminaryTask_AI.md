@@ -2,7 +2,7 @@
 **<span style="color: #90EE90; font-size: 1.5rem;">AI</span>**
 **<span style="color: #ADD8E6; font-size: 1rem;">Authors - R. Pranav and Jagaadhep U K</span>**
  
-**<span style="color: #ADD8E6; font-size: 1rem;">Google Colab</span>**
+**<span style="color: #ADD8E6; font-size: 1rem;">Google Colab</span>** 
 
 **Google Colab is a free online tool that lets you write and run Python code right in your web browser. It's like a notebook where you can type your code and see the results immediately. Colab is great for learning and working on data science projects because it supports popular Python libraries like Pandas and TensorFlow. You can also use it with others, making it easy to collaborate on projects. Plus, it provides access to powerful computers (GPUs and TPUs) for faster processing, which is really helpful for running complex tasks.**
 
