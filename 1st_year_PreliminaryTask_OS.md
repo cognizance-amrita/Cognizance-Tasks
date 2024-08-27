@@ -3,7 +3,7 @@
 **<span style="color: #ADD8E6; font-size: 1rem;">Authors - Jahnavi and Nehal Khan</span>**
  
 **<span style="color: #FF6363; font-size: 1rem;">Question 1</span>** 
-
+ 
 **<span style="color: #ADD8E6; font-size: 1rem;">Figma</span>**
 
 **Figma is a web-based tool for graphics editing and user interface design. It allows you to create a wide range of design projects, including website wireframes, mobile app interfaces, design prototypes, social media posts, and more**
