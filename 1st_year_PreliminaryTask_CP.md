@@ -1,7 +1,7 @@
 **<span style="color: #90EE90; font-size: 1.5rem;">Competitive Programming</span>**
 **<span style="color: #ADD8E6; font-size: 1rem;">Authors - Adithiyan PV and Kaushik Kumbhat</span>**
 
-<span style="color: #ADD8E6;">_TASK:_</span>
+<span style="color: #ADD8E6;">_TASK:_</span> 
 
 CREATE AN ACCOUNT IN HACKERRANK PLATFORM AND JOIN IN THE HACKERRANK CHALLENGE VIA THE LINK GIVEN BELOW:
 
