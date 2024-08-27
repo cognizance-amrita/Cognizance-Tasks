@@ -1,7 +1,7 @@
 **<span style="color: #90EE90; font-size: 1.5rem;">CYS</span>**  
 **<span style="color: #ADD8E6; font-size: 1rem;">Authors - R. Subramanian and Rohan</span>**
 
-**<span style="color: #ADD8E6; font-size: 1rem;">Recruitment Challenge</span>** 
+**<span style="color: #ADD8E6; font-size: 1rem;">Recruitment Challenge</span>**  
 
 **"Hello. We are looking for highly intelligent individuals. To find them, we have devised a test.
 There are three images provided below, each containing a hidden message. Your task is to decode the hidden message within each image and follow the clues it reveals. We look forward to meeting the few that will make it all the way through.
