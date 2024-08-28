@@ -3,7 +3,7 @@
 **<span style="color: #ADD8E6; font-size: 1rem;">Authors - Nehal Khan and Rohit Prasanna</span>**
  
 **<span style="color: #FF6363; font-size: 1rem;">Question 1</span>**
-
+ 
 **<span style="color: #ADD8E6; font-size: 1rem;">RDBMS</span>**
 
 **MySQL is a popular open-source relational database management system (RDBMS) that uses Structured Query Language (SQL) for managing and organizing data. Known for its speed, reliability, and ease of use, MySQL is widely used in web applications, data warehousing, and logging applications making it a top choice for developers and organizations to handle large volumes of data efficiently**
