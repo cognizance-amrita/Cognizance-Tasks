@@ -13,7 +13,7 @@
 •	Each storage location in an array is called an array element. 
 
  
- 
+  
 **Arrays are of two types:**
 
 •	Single or One dimensional arrays. 
