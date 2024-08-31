@@ -164,7 +164,7 @@ Flow chart to find the largest of the array
 
 CREATE AN ACCOUNT IN HACKERRANK PLATFORM AND JOIN IN THE HACKERRANK CHALLENGE VIA THE LINK GIVEN BELOW:
 
-LINK: www.hackerrank.com/task-1-for-2nd-year
+LINK: www.hackerrank.com/preliminary-task-2nd-year
 
 **SCORING CRITERIA:**
 
