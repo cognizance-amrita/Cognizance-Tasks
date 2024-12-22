@@ -1,5 +1,5 @@
 ---
-title: 1st Year Preliminary Task
+title: 1st Year Preliminary Task 
 ---
 
 _Welcome to the Cognizance Preliminary Task, Here you are asked to solve a few basic problems from each domain to make you understand each domain_
