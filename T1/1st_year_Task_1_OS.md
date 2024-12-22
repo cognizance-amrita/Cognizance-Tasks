@@ -63,7 +63,7 @@ Users should be able to:
 - Inovation :book: : Innovation (additional features or UI) plays a major role in this task.
 
 ---
-<span style="color: #ADD8E6;">_Submission Guidelines:_</span>
+<span style="color: #ADD8E6;">_Submission Guidelines :mailbox_with_mail::_</span>
 - **Hosting in github**: Your website should be hosted in github page .
 - **Person's name**: Person's name should be mentioned somewhere in the website .  
 - **Implementation**: Your github repository link and website page link should be submitted in the submission form .  
