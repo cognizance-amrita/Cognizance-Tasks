@@ -1,8 +1,7 @@
 # CP task 1 for second year
 The below hackerank contest contains 4 question in linked list. Refer to below links or some other youtube channel to learn the concepts. Feel free to contact any of the mentors if you have any doubt on concepts or in your code.
 
-Contest:https://www.hackerrank.com/T1-2nd-year
-
+Contest : https://www.hackerrank.com/weekly-task-2-year
 Best of luck!
 
 *Kindly dont use AI to code*
