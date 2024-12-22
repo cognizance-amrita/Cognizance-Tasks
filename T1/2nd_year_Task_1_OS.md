@@ -1,6 +1,6 @@
 **<span style="color: #90EE90; font-size: 1.5rem;">Open Source</span>**
 **<span style="color: #ADD8E6; font-size: 1rem;">Authors - Jahnavi and Nehal Khan</span>**
-
+ 
 **<span style="color: #ADD8E6; font-size: 1rem;">API</span>**
 
 ![image](https://github.com/user-attachments/assets/5eb10050-5286-46e3-84c3-1b2710264792)![image](https://github.com/user-attachments/assets/960aba82-bd5e-4c12-9b9c-4d367369ee9f)![image](https://github.com/user-attachments/assets/b56c0014-e838-436a-889b-9cd065995bd4)
