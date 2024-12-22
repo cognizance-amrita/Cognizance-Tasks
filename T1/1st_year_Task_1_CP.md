@@ -1,36 +1,37 @@
-# CP Task 1 for First Years
+**<span style="color: #90EE90; font-size: 1.5rem;">Competitive Programming Task 1</span>**  
 
-Hello, First Years!  
+**<span style="color: #ADD8E6; font-size: 1rem;">Welcome First Years!</span>**  
 
-Welcome to your first Competitive Programming task. This HackerRank contest includes 5 engaging problems on Arrays. Take this opportunity to learn, explore, and challenge yourself! 
+**<span style="color: #FF6363; font-size: 1rem;">Objective:</span>**  
+This task focuses on solving 5 problems related to arrays in a HackerRank contest. It’s designed to help you build your problem-solving and coding skills while exploring competitive programming.  
 
-Refer to the links below or explore other resources of your choice to brush up on concepts. If you have any doubts about the concepts or your code, feel free to reach out to your mentors—we’re here to help you succeed!  
+<span style="color: #ADD8E6;">_Contest Link:_</span>  
+[<span style="color: #55AAFF;">Weekly Task 1 for First Year</span>](https://www.hackerrank.com/weekly-task-1-year)  
 
-#Contest Link:  
- [Weekly Task 1 for First Year](https://www.hackerrank.com/weekly-task-1-year)  
+---
 
-# Reference Links:  
+<span style="color: #ADD8E6;">_Reference Links:_</span>  
 
-1. [Brush up on the Basics](https://youtu.be/n60Dn0UsbEk?si=tKA9hbZGBvYRImYF)  
-2. [In-depth Advanced Interview Prep Playlist](https://youtube.com/playlist?list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB&si=WCOhz25J0Ce4iHci)  
+1. [<span style="color: #55AAFF;">Brush up on the Basics</span>](https://youtu.be/n60Dn0UsbEk?si=tKA9hbZGBvYRImYF)  
+2. [<span style="color: #55AAFF;">Advanced Interview Prep Playlist</span>](https://youtube.com/playlist?list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB&si=WCOhz25J0Ce4iHci)
+   
+---
 
-### Hints for the Problems  
+### **<span style="color: #FF6363; font-size: 1.2rem;">Hints for the Problems</span>**
 
-Here are some useful hints to help you tackle the problems:  
+**<span style="color: #ADD8E6;">Problem 1: Climbing the Leaderboard</span>**  
+- Use reverse traversal or binary search for efficient score comparison.  
+- Maintain a dynamic rank list to adjust rankings as you process player scores.  
 
-1.  Climbing the Leaderboard  
-   - Use reverse traversal or binary search to compare scores efficiently.  
-   - Maintain a rank list for the leaderboard and adjust ranks dynamically as you traverse through the player's scores.  
+**<span style="color: #ADD8E6;">Problem 2: Forming a Magic Square</span>**  
+- Precompute all 8 unique 3x3 magic squares.  
+- Calculate the minimal cost of converting the input matrix into one of these magic squares.  
 
-2.  Forming a Magic Square  
-   - Generate all 8 unique 3x3 magic squares.  
-   - Compare each magic square with the input matrix to calculate the minimal cost of conversion.  
+**<span style="color: #ADD8E6;">Problem 3: Picking Numbers</span>**  
+- Use a frequency array or dictionary to count occurrences of numbers.  
+- Check adjacent pairs in the frequency array to find the largest subset where the difference between numbers is at most 1.  
 
-3.  Picking Numbers  
-   - Use a frequency array or a dictionary to count occurrences of each number.  
-   - Check adjacent pairs to find the maximum subset where the difference between numbers is at most 1.  
+### **<span style="color: #FF6363; font-size: 1rem;">Important Note:</span>**  
+Kindly refrain from using AI tools to generate your solutions. This exercise is tailored to boost your logical reasoning and enhance your coding expertise.  
 
-### Important Note:  
- Kindly do NOT use AI tools to write your code. This task is designed to help you improve your logical thinking and coding skills.  
-
-
+Reach out to your mentors for any doubts—they’re here to support you!
