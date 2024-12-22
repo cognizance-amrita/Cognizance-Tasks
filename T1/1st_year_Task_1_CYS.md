@@ -4,7 +4,7 @@
 
 **<span style="color: #FF6363; font-size: 1rem;">Question 1</span>**
 
-**<span style="color: #ADD8E6; font-size: 1rem;">Image Steganography</span>**
+**<span style="color: #ADD8E6; font-size: 1rem;">Image Steganography</span>** 
 
 
 <span style="color: #ADD8E6;">_Objective:_</span>
