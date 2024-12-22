@@ -1,20 +1,21 @@
-# AI Domain
 
-**Authors:** Shalini D and Jeba Rachel
+**<span style="color: #90EE9; font-size: 1.5rem;">AI Domain</span>**
 
----
-
-## Task 1: Model Selection for Regression with Scikit-learn
-
-### Objective:
-Build a regression model to predict diabetes progression using Scikit-learn. This task will help you understand the fundamentals of selecting and evaluating regression models.
-
-### Dataset:
-Diabetes Dataset (available in Scikit-learn).
+**<span style="color: #ADD8E6; font-size: 1rem;">Authors - Shalini D and Jeba Rachel</span>**
 
 ---
 
-### Steps
+**<span style="color: #FF6363; font-size: 1rem;">Task 1: Model Selection for Regression with Scikit-learn</span>**
+
+**<span style="color: #ADD8E6;">Objective:</span>**  
+Build a regression model to predict diabetes progression using Scikit-learn. This task will help you understand the fundamentals of selecting and evaluating regression models.  
+
+**<span style="color: #ADD8E6;">Dataset:</span>**  
+Diabetes Dataset (available in Scikit-learn).  
+
+---
+
+**<span style="color: #ADD8E6;">Steps</span>**
 
 1. **Load the Dataset**  
    - Use Scikit-learn to load the Diabetes dataset.  
@@ -43,10 +44,9 @@ Diabetes Dataset (available in Scikit-learn).
    - Split the data into training and testing sets (80-20 split).  
    - Train the selected model on the training set.  
    - Evaluate its performance on the test set.  
-
 ---
 
-### Deliverables
+**<span style="color: #ADD8E6;">Deliverables</span>**  
 
 - A Google Colab Notebook containing:  
   - Code for data preprocessing, model comparison, and evaluation.  
@@ -54,18 +54,19 @@ Diabetes Dataset (available in Scikit-learn).
   - A summary of the best model and its MSE on the test set.  
 
 ---
+---
 
-## Task 2: Model Selection for Classification with Scikit-learn
+**<span style="color: #FF6363; font-size: 1rem;">Task 2: Model Selection for Classification with Scikit-learn</span>**
 
-### Objective:
+**<span style="color: #ADD8E6;">Objective:</span>**  
 Build a classification model to predict iris species using Scikit-learn. This task focuses on understanding the process of selecting the best classification model.
 
-### Dataset:
+**<span style="color: #ADD8E6;">Dataset:</span>**  
 Iris Dataset (available in Scikit-learn).
 
 ---
 
-### Steps
+**<span style="color: #ADD8E6;">Steps</span>**
 
 1. **Load the Dataset**  
    - Use Scikit-learn to load the Iris dataset.  
@@ -94,11 +95,11 @@ Iris Dataset (available in Scikit-learn).
 4. **Train and Test the Best Model**  
    - Split the data into training and testing sets (80-20 split).  
    - Train the selected model on the training set.  
-   - Evaluate its performance on the test set.  
+   - Evaluate its performance on the test set.
 
 ---
 
-### Deliverables
+**<span style="color: #ADD8E6;">Deliverables</span>**  
 
 - A Google Colab Notebook containing:  
   - Code for data preprocessing, model comparison, and evaluation.  
@@ -107,18 +108,19 @@ Iris Dataset (available in Scikit-learn).
 
 ---
 
-## References
+**<span style="color: #ADD8E6;">References</span>**
 
-### General References:
+**General References:**  
 1. **Regression:**  
    - [Scikit-learn Regression Guide](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)  
    - [StandardScaler Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)  
+
 
 2. **Classification:**  
    - [Scikit-learn Classification Guide](https://scikit-learn.org/stable/supervised_learning.html#classification)  
    - [Cross-validation](https://scikit-learn.org/stable/modules/cross_validation.html)  
 
-### Specific Techniques:
+**Specific Techniques:**  
 - **Data Splitting:** [Train-Test Split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)  
 - **Handling Missing Values:** [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.fillna.html)  
 - **Model Selection:** [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)  
@@ -126,4 +128,3 @@ Iris Dataset (available in Scikit-learn).
 ---
 
 **Note:** Complete each task in Google Colab and upload your notebooks to your GitHub profile.
-
