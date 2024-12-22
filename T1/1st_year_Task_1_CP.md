@@ -11,8 +11,8 @@ Refer to the links below or explore other resources of your choice to brush up o
 
 # Reference Links:  
 
-1. [🔗 Brush up on the Basics](https://youtu.be/n60Dn0UsbEk?si=tKA9hbZGBvYRImYF)  
-2. [🔗 In-depth Advanced Interview Prep Playlist](https://youtube.com/playlist?list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB&si=WCOhz25J0Ce4iHci)  
+1. [Brush up on the Basics](https://youtu.be/n60Dn0UsbEk?si=tKA9hbZGBvYRImYF)  
+2. [In-depth Advanced Interview Prep Playlist](https://youtube.com/playlist?list=PLgUwDviBIf0rENwdL0nEH0uGom9no0nyB&si=WCOhz25J0Ce4iHci)  
 
 ### Hints for the Problems  
 
