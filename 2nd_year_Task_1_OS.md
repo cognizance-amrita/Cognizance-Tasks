@@ -21,6 +21,7 @@ You are tasked with REST API using any programming language of your choice.
 - Upload a video demonstrating the code on any platform (YouTube, Drive, etc.)
 - The video must have public access if uploaded in the drive, The Task will not be considered for evaluation if it has private access.
 - Submit the code in the GitHub directory.
+- **Note: The video Creation/Editing would also be noticed, It does not matter if you are bad at it, there is always a beginning and room for improvement BE CONFIDENT** 
 
 <hr>
 <hr>
