@@ -9,9 +9,9 @@
 ---
 <span style="color: #ADD8E6;">_Objective:_</span>
 - To design and develop a **Web Application for Task Management** that enhances productivity and helps users to stay organized.
-- Your goal is to create a responsive and interactive system that incorporates essential functionalities for task management while offering a seamless user experience. :rocket:
+- Your goal is to create a responsive and interactive system that incorporates essential functionalities for task management while offering a seamless user experience.
 ---
-<span style="color: #ADD8E6;">_Instructions :memo::_</span>
+<span style="color: #ADD8E6;">_Instructions:_</span>
 
 1. **Understand the Requirements**: Analyze the core functionalities described below and ensure your web application fulfills these requirements.  
 2. **Plan Your Implementation**: Strategize the structure of your web application, including UI/UX design, backend logic, and database management.  
@@ -19,27 +19,27 @@
 4. **Test Your Application**: Ensure the application is bug-free, user-friendly, and meets the expected outcomes across different devices.  
 
 ---
-<span style="color: #ADD8E6;">_Core Functionalities :gear::_</span>
+<span style="color: #ADD8E6;">_Core Functionalities:_</span>
 
- 1. #### Task Creation :pencil:
+ 1. #### Task Creation 
 Users should be able to:  
 - Add tasks with descriptive titles using a user-friendly input form.  
 - Include  details such as due dates and time.
 - Your can add additional features too.
 
-2. #### Task Viewing :eyes:
+2. #### Task Viewing
 - Display tasks in a structured list or grid format.  
 - Implement a feature to view the remaining task [apart from completed task] .  
 
-3. #### Task Management :white_check_mark:
+3. #### Task Management 
 - Mark tasks as completed.  
 - Edit or delete tasks directly from the interface.  
 
-4. #### Responsive Design :
+4. #### Responsive 
 - Ensure that the web application is responsive and works seamlessly.
 
 ---
-<span style="color: #ADD8E6;">_Example Workflow  :bulb::_</span>
+<span style="color: #ADD8E6;">_Example Workflow :_</span>
 
 #### Todo list
 
@@ -52,18 +52,18 @@ Users should be able to:
 - **Edit or Delete** : The user can easily modify the due date or remove unnecessary tasks via edit or a delete button.  
 
 ---
-<span style="color: #ADD8E6;">_Evaluation Criteria :bar_chart::_</span>
+<span style="color: #ADD8E6;">_Evaluation Criteria :_</span>
 
-- Functionality :toolbox: : Does the web application implement all the core features effectively?  
+- Functionality : Does the web application implement all the core features effectively?  
 
-- Usability :bust_in_silhouette: : Is the application intuitive and easy to navigate?  
+- Usability : Is the application intuitive and easy to navigate?  
 
-- Design & Responsiveness :art: : Does the application provide an aesthetically pleasing and responsive interface?  
+- Design & Responsiveness : Does the application provide an aesthetically pleasing and responsive interface?  
 
-- Inovation :book: : Innovation (additional features or UI) plays a major role in this task.
+- Inovation  : Innovation (additional features or UI) plays a major role in this task.
 
 ---
-<span style="color: #ADD8E6;">_Submission Guidelines :mailbox_with_mail::_</span>
+<span style="color: #ADD8E6;">_Submission Guidelines:_</span>
 - **Hosting in github**: Your website should be hosted in github page .
 - **Person's name**: Person's name should be mentioned somewhere in the website .  
 - **Implementation**: Your github repository link and website page link should be submitted in the submission form .  
