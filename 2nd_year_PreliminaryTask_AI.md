@@ -1,5 +1,5 @@
 
-**<span style="color: #90EE90; font-size: 1.5rem;">AI</span>**
+**<span style="color: #90EE90; font-size: 1.5rem;">AI</span>** 
 **<span style="color: #ADD8E6; font-size: 1rem;">Authors - R. Pranav and Jagaadhep U K</span>** 
  
 **<span style="color: #ADD8E6; font-size: 1rem;">Google Colab</span>** 
