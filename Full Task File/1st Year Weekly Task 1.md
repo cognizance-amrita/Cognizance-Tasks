@@ -299,7 +299,7 @@ Reach out to your mentors for any doubts—they’re here to support you!
 **NOTE: Create a GitHub Repository named "Cognizance_1st_Year_T1". For each domain create a separate directory namely "OS", "AI", "CYS", and "CP".  For each domain question, create a sub-directory, "Q1", and "Q2". Finally, update the relevant files in these directories and fill out the submission form by providing the links to these repos**
 
 ```bash
-└── Cognizance_1st_Year_T1
+└── Cognizance_{num}_Year_{task_num}
     ├── OS
     |   ├── Q1
     |   |   └── example.py
