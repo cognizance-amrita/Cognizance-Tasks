@@ -1,10 +1,10 @@
-🎓 2nd Year Task Sheet – Classifying Fruits Using Teachable Machine
+# 🎓 2nd Year Task Sheet – Classifying Fruits Using Teachable Machine
 
-📌 **TASK** **TITLE:**
+## 📌 **TASK** **TITLE:**
 
 **“Can** **a** **Computer** **Tell** **If** **a** **Fruit** **is**
 **an** **Apple** **or** **an** **Orange?”**
-
+---
 🧠 **Objective:**
 
 Train a very simple AI model using images of fruits (apples and
