@@ -1,7 +1,8 @@
-Sample Linear Regression Program
+# Sample Linear Regression Program
 
 **Goal:** Use **Linear** **Regression** to predict student marks based
 on hours studied.
+---
 
 📁 **1.** Read the Dataset
 
