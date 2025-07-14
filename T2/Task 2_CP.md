@@ -24,9 +24,14 @@ LeetCode #7
 *Reverse digits of a 32-bit signed integer, handle overflow.*
 
 4. **Linked List Cycle**
-LeetCode #141  
+
+LeetCode #141 
+
 *Detect if a linked list contains a cycle using Floyd’s Cycle Detection Algorithm.*
 
-5. **Make Sum Divisible by P** 
+
+5. **Make Sum Divisible by P**
+   
 LeetCode #1590  
+
 *Find the shortest subarray to remove such that the sum of the remaining elements is divisible by p.*
