@@ -1,6 +1,8 @@
-﻿**OPEN SOURCE 2nd Years**  
-
-**TASK:**  
+# OPEN SOURCE
+## 2nd Years 
+### Authors: Mahitha, Swetha, Hasini
+---
+### TASK: 
 
 You are a data analyst at SpyTrack, a top-secret intelligence agency that tracks agents, missions, and communications across international operations. A mole is suspected inside the network, and you’ve been given access to a classified database to investigate anomalies, trace suspicious behaviour, and clean up inactive or orphan records. 
 
