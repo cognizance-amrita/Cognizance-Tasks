@@ -1,4 +1,6 @@
 ### 🔐 Challenge Instructions for Participants
+## Author: Vithula, Venkat Pavan, Agneay Nair
+---
 
 You are given two files:
 
